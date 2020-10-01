@@ -1,5 +1,5 @@
 --Binary to BCD code
---hello world
+--hello omar, I made a new change
 
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
