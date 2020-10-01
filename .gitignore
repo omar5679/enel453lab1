@@ -50,4 +50,8 @@ incremental_db/README
 *.sof
 *.sld
 *.pof
+
 *.qws
+
+top_level.qws
+
