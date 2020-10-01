@@ -1,6 +1,7 @@
 --Binary to BCD code
 -- yoyo test
 -- github to omar do you copy???
+-- copy nigga
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.numeric_std.all;
