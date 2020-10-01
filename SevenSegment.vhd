@@ -1,6 +1,6 @@
 -- --- Seven segment component
 library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_1164.ALL; --FUck you
 
 entity SevenSegment is
     Port ( DP_in,Blank                                           : in  STD_LOGIC_VECTOR (5 downto 0);
