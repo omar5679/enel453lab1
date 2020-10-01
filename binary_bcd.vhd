@@ -1,11 +1,4 @@
 --Binary to BCD code
--- yoyo test
-
--- Github to omar do you copy?
-
--- github to omar do you copy???
--- copy nigga
--- local to git, can you see this?
 
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
