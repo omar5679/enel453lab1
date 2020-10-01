@@ -1,4 +1,5 @@
 -- --- Seven segment component
+--Making a new comment to see if it's in master
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL; 
 
