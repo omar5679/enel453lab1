@@ -1,6 +1,6 @@
 --Binary to BCD code
 --hello omar, I made a new change
-
+--no you didnt
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.numeric_std.all;
