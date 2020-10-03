@@ -46,6 +46,10 @@ Component MUX2TO1 is
 END Component; 
 
 begin
+	Num_Hex0 <= mux_to_ssd(3 downto 0);
+	Num_Hex1 <= mux_to_ssd(7 downto 4);                         
+	Num_Hex2 <= mux_to_ssd(11 downto 8);
+	Num_Hex3 <= mux_to_ssd(15 downto 12);
    Num_Hex4 <= "0000";
    Num_Hex5 <= "0000";   
    DP_in    <= "000000"; -- position of the decimal point in the display (1=LED on,0=LED off)
@@ -54,10 +58,10 @@ begin
                 
 SevenSegment_ins: SevenSegment  
 
-                  PORT MAP( Num_Hex0 => mux_to_ssd(3 downto 0),
-                            Num_Hex1 => mux_to_ssd(7 downto 4),
-                            Num_Hex2 => mux_to_ssd(11 downto 8),
-                            Num_Hex3 => mux_to_ssd(15 downto 12),
+                  PORT MAP( Num_Hex0 => Num_Hex0,
+                            Num_Hex1 => Num_Hex1,
+                            Num_Hex2 => Num_Hex2,
+                            Num_Hex3 => Num_Hex3,
                             Num_Hex4 => Num_Hex4,
                             Num_Hex5 => Num_Hex5,
                             Hex0     => Hex0,
