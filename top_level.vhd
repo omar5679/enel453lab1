@@ -21,8 +21,8 @@ Signal Num_Hex0, Num_Hex1, Num_Hex2, Num_Hex3, Num_Hex4, Num_Hex5 : STD_LOGIC_VE
 Signal DP_in, Blank:  STD_LOGIC_VECTOR (5 downto 0);
 Signal switch_inputs: STD_LOGIC_VECTOR (12 downto 0);
 Signal bcd:           STD_LOGIC_VECTOR(15 DOWNTO 0);
-Signal switch_to_mux  STD_LOGIC_VECTOR(15 DOWNTO 0);
-Signal mux_ssd			 STD_LOGIC_VECTOR(15 DOWNTO 0);
+Signal switch_to_mux: STD_LOGIC_VECTOR(15 DOWNTO 0);
+Signal mux_ssd:			 STD_LOGIC_VECTOR(15 DOWNTO 0);
 
 Component SevenSegment is
     Port( Num_Hex0,Num_Hex1,Num_Hex2,Num_Hex3,Num_Hex4,Num_Hex5 : in  STD_LOGIC_VECTOR (3 downto 0);
@@ -48,6 +48,7 @@ Component MUX2TO1 IS
       s       : in  std_logic;
       mux_out : out std_logic_vector(15 downto 0) -- notice no semi-colon 
       );
+END Component; 
 	
 
 begin
