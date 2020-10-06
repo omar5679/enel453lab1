@@ -1,5 +1,4 @@
 
-enel453lab1.qpf
 devkits/readme.txt
 devkits/DE10_LITE_Golden_Top/qar_info.json
 devkits/DE10_LITE_Golden_Top/platform_setup.tcl
@@ -50,8 +49,9 @@ incremental_db/README
 *.sof
 *.sld
 *.pof
-
+*.bak
 *.qws
+
 
 top_level.qws
 
