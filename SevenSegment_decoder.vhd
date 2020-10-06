@@ -33,7 +33,12 @@ begin
 				when "1000" => seven_seg(6 downto 0)<="1111111"; -- 8
 				when "1001" => seven_seg(6 downto 0)<="1100111"; -- 9
 				-- students add this block ------
-
+				when "1010" => seven_seg(6 downto 0)<="1110111"; -- A/10
+				when "1011" => seven_seg(6 downto 0)<="1111100"; -- b/11
+				when "1100" => seven_seg(6 downto 0)<="0111001"; -- C/12
+				when "1101" => seven_seg(6 downto 0)<="1011110"; -- d/13
+				when "1110" => seven_seg(6 downto 0)<="1111001"; -- E/14
+				when "1111" => seven_seg(6 downto 0)<="1110001"; -- F/15
 				---------------------------------
 				When others => seven_seg(6 downto 0)<="0000000"; -- blank display
 			End Case;
