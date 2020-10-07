@@ -1,0 +1,289 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+Ebinary_bcd
+Z0 w1601766158
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 52
+Z4 dC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1
+Z5 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd
+Z6 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd
+l0
+L7 1
+VUzoeW9Lma@=@L6?j9>7JF0
+!s100 6goJXCCbUA3k@H<6a];`e0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1602032047
+!i10b 1
+Z9 !s108 1602032047.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd|
+Z11 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binary_bcd 0 22 UzoeW9Lma@=@L6?j9>7JF0
+!i122 52
+l26
+L16 68
+V_@`I7?gYRd;zSQc]gjB=j2
+!s100 _ihBY<8_UcoSem_n=TIY>2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ccfg_tb_top_level
+etb_top_level
+atb
+R1
+Z14 DEx4 work 9 top_level 0 22 62GI<MZNLl3aOeQPUKc^j1
+DAx4 work 12 tb_top_level 2 tb 22 XQ7d;9f=<^WN90d]JjEFd1
+R2
+R3
+Z15 DEx4 work 12 tb_top_level 0 22 zIJcR]GGPS23@TVK:g=SK1
+!i122 56
+Z16 w1602009054
+R4
+Z17 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd
+Z18 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd
+l0
+L95 1
+VG<z;bL^gUnFfN^cFNDF7f3
+!s100 _2CodEQ2WG9^PjW2zQl0>2
+R7
+32
+Z19 !s110 1602032048
+!i10b 0
+Z20 !s108 1602032048.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd|
+Z22 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd|
+!i113 1
+R12
+R13
+Emux2to1
+Z23 w1602008076
+R2
+R3
+!i122 53
+R4
+Z24 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd
+Z25 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd
+l0
+L4 1
+VoQ7[^jKLJ52?kW53Nz3EN1
+!s100 ?B]`D<f;d>M0NU6;DQ`?G2
+R7
+32
+R8
+!i10b 1
+R9
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd|
+Z27 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 mux2to1 0 22 oQ7[^jKLJ52?kW53Nz3EN1
+!i122 53
+l13
+L12 7
+VXB3Tl3lkENP>mQ<@K1Z>I3
+!s100 jA2oo80z485Y[`m712EBm0
+R7
+32
+R8
+!i10b 1
+R9
+R26
+R27
+!i113 1
+R12
+R13
+Esevensegment
+R0
+R2
+R3
+!i122 54
+R4
+Z28 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment.vhd
+Z29 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment.vhd
+l0
+L6 1
+Vzf7H0KEUACdcL6ofKZXa93
+!s100 >IEJC57ZP:Ri_T5nGM:6Q1
+R7
+32
+R19
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment.vhd|
+Z31 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 12 sevensegment 0 22 zf7H0KEUACdcL6ofKZXa93
+!i122 54
+l21
+L12 50
+V@76gJhPGP0NL]bf`JALnz0
+!s100 dkD[jZe@O2mY7kYA9Md`[2
+R7
+32
+R19
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Esevensegment_decoder
+Z32 w1602008713
+R2
+R3
+!i122 55
+R4
+Z33 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd
+Z34 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd
+l0
+L5 1
+VKjE^A[JI58zIZ_l229BiF2
+!s100 5AALkiToOD1k>]CGcBo?e0
+R7
+32
+R19
+!i10b 1
+R20
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd|
+Z36 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 sevensegment_decoder 0 22 KjE^A[JI58zIZ_l229BiF2
+!i122 55
+l17
+L13 41
+Vo=e:lAfD2_^C;7hz[HJKZ0
+!s100 :RKLICMaCA<^S>3gSNgnd0
+R7
+32
+R19
+!i10b 1
+R20
+R35
+R36
+!i113 1
+R12
+R13
+Etb_top_level
+R16
+R2
+R3
+!i122 56
+R4
+R17
+R18
+l0
+L8 1
+VzIJcR]GGPS23@TVK:g=SK1
+!s100 2e@ZcHec5JS2MgNF8KA`21
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
+Atb
+R2
+R3
+R15
+!i122 56
+l41
+Z37 L11 81
+Z38 VXQ7d;9f=<^WN90d]JjEFd1
+Z39 !s100 WZE9blF=>POlgF_H5jAOl2
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
+Etop_level
+Z40 w1602004498
+R1
+R2
+R3
+!i122 51
+R4
+Z41 8C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/top_level.vhd
+Z42 FC:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/top_level.vhd
+l0
+L8 1
+V62GI<MZNLl3aOeQPUKc^j1
+!s100 Oh]1JNgF^_XII?mmP^NR;0
+R7
+32
+Z43 !s110 1602009057
+!i10b 1
+Z44 !s108 1602009057.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/top_level.vhd|
+Z46 !s107 C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/top_level.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+R14
+!i122 51
+l52
+L18 84
+VJF7_J_SXhczS0AL_[Z;Z20
+!s100 9hKI>Y_km3f5mRaHULXQo1
+R7
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R12
+R13

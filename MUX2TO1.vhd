@@ -16,3 +16,5 @@ architecture BEHAVIOR of MUX2TO1 is
 			           in2 when others;
 
 end BEHAVIOR; -- can also be written as "end;"
+
+		 
