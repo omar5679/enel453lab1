@@ -1,6 +1,30 @@
+# Compile of binary_bcd.vhd was successful.
+# Compile of MUX2TO1.vhd was successful.
+# Compile of SevenSegment.vhd was successful.
+# Compile of SevenSegment_decoder.vhd was successful.
+# Compile of tb_top_level.vhd was successful.
+# Compile of tb_top_level_test.vhd was successful.
+# Compile of top_level.vhd was successful.
+# 7 compiles, 0 failed with no errors.
 vsim -gui work.tb_top_level
 # vsim -gui work.tb_top_level 
-# Start time: 10:44:42 on Oct 06,2020
+# Start time: 19:37:44 on Oct 06,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_top_level(tb)
+# Loading ieee.numeric_std(body)
+# Loading work.top_level(behavioral)
+# Loading work.sevensegment(behavioral)
+# Loading work.sevensegment_decoder(behavioral)
+# Loading work.binary_bcd(behavior)
+# Loading work.mux2to1(behavior)
+add wave -position end sim:/tb_top_level/*
+vsim -gui work.tb_top_level
+# End time: 19:38:08 on Oct 06,2020, Elapsed time: 0:00:24
+# Errors: 0, Warnings: 6
+# vsim -gui work.tb_top_level 
+# Start time: 19:38:08 on Oct 06,2020
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
@@ -13,3 +37,5 @@ vsim -gui work.tb_top_level
 # Loading work.mux2to1(behavior)
 add wave -position end sim:/tb_top_level/*
 run -all
+# End time: 19:41:22 on Oct 06,2020, Elapsed time: 0:03:14
+# Errors: 0, Warnings: 1
