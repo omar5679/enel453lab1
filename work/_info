@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Ebinary_bcd
+Z0 w1602035662
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1
+Z5 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
+Z6 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
+l0
+L7 1
+VUzoeW9Lma@=@L6?j9>7JF0
+!s100 6goJXCCbUA3k@H<6a];`e0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1602190454
+!i10b 1
+Z9 !s108 1602190454.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
+Z11 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binary_bcd 0 22 UzoeW9Lma@=@L6?j9>7JF0
+!i122 0
+l26
+L16 68
+V_@`I7?gYRd;zSQc]gjB=j2
+!s100 _ihBY<8_UcoSem_n=TIY>2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ccfg_tb_top_level
+etb_top_level
+atb
+DAx4 work 12 tb_top_level 2 tb 22 gK1El9Z@;=dQgCZ7IDV3Q0
+R2
+R3
+Z14 DEx4 work 12 tb_top_level 0 22 zIJcR]GGPS23@TVK:g=SK1
+!i122 4
+Z15 w1602190345
+R4
+Z16 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd
+Z17 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd
+l0
+L95 1
+VG<z;bL^gUnFfN^cFNDF7f3
+!s100 _2CodEQ2WG9^PjW2zQl0>2
+R7
+32
+Z18 !s110 1602190455
+!i10b 0
+Z19 !s108 1602190455.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd|
+Z21 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd|
+!i113 1
+R12
+R13
+Emux2to1
+Z22 w1602190356
+R2
+R3
+!i122 1
+R4
+Z23 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
+Z24 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
+l0
+L4 1
+VoQ7[^jKLJ52?kW53Nz3EN1
+!s100 ?B]`D<f;d>M0NU6;DQ`?G2
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+Z26 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 mux2to1 0 22 oQ7[^jKLJ52?kW53Nz3EN1
+!i122 1
+l13
+L12 7
+VXB3Tl3lkENP>mQ<@K1Z>I3
+!s100 jA2oo80z485Y[`m712EBm0
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Esevensegment
+Z27 w1601516219
+R2
+R3
+!i122 2
+R4
+Z28 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+Z29 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+l0
+L6 1
+Vzf7H0KEUACdcL6ofKZXa93
+!s100 >IEJC57ZP:Ri_T5nGM:6Q1
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+Z31 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 12 sevensegment 0 22 zf7H0KEUACdcL6ofKZXa93
+!i122 2
+l21
+L12 50
+V@76gJhPGP0NL]bf`JALnz0
+!s100 dkD[jZe@O2mY7kYA9Md`[2
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Esevensegment_decoder
+R22
+R2
+R3
+!i122 3
+R4
+Z32 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+Z33 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+l0
+L5 1
+VKjE^A[JI58zIZ_l229BiF2
+!s100 5AALkiToOD1k>]CGcBo?e0
+R7
+32
+R18
+!i10b 1
+R19
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+Z35 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 sevensegment_decoder 0 22 KjE^A[JI58zIZ_l229BiF2
+!i122 3
+l17
+L13 41
+Vo=e:lAfD2_^C;7hz[HJKZ0
+!s100 :RKLICMaCA<^S>3gSNgnd0
+R7
+32
+R18
+!i10b 1
+R19
+R34
+R35
+!i113 1
+R12
+R13
+Etb_top_level
+R15
+R2
+R3
+!i122 4
+R4
+R16
+R17
+l0
+L8 1
+VzIJcR]GGPS23@TVK:g=SK1
+!s100 2e@ZcHec5JS2MgNF8KA`21
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Atb
+R2
+R3
+R14
+!i122 4
+l41
+L11 81
+VgK1El9Z@;=dQgCZ7IDV3Q0
+!s100 >3?lhJgM@Y=TYDg0AfLQm1
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Etop_level
+R22
+R1
+R2
+R3
+!i122 5
+R4
+Z36 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+Z37 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+l0
+L8 1
+V62GI<MZNLl3aOeQPUKc^j1
+!s100 Oh]1JNgF^_XII?mmP^NR;0
+R7
+32
+R18
+!i10b 1
+R19
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+!s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 9 top_level 0 22 62GI<MZNLl3aOeQPUKc^j1
+!i122 5
+l51
+L18 83
+VzTD2I3LR:[<N[Ll6zl6Kc3
+!s100 9k89N<Yk7zFbzEznHKU?K0
+R7
+32
+R18
+!i10b 1
+R19
+R38
+Z39 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+!i113 1
+R12
+R13
