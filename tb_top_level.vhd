@@ -34,7 +34,7 @@ architecture tb of tb_top_level is
     signal HEX4    : std_logic_vector (7 downto 0);
     signal HEX5    : std_logic_vector (7 downto 0);
 
-    constant TbPeriod : time := 20 ns; -- EDIT Put right period here
+    constant TbPeriod : time := 100 ns; -- EDIT Put right period here
     signal TbClock : std_logic := '0';
     signal TbSimEnded : std_logic := '0';
 
