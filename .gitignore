@@ -83,3 +83,8 @@ transcript
 modelsim.ini
 lab1testmux.mpf
 lab1testmux.cr.mti
+Lab1.cr.mti
+Lab1.mpf
+enel453lab1.qpf
+transcript
+vsim.wlf
