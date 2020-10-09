@@ -88,11 +88,16 @@ begin
 		reset_n <= '1' ; 
 		SW <= "1001111111"; 
 		wait for 1000* TbPeriod;
-		SW <= "1000001111"; wait for 1000 * TbPeriod;
-		SW <= "1000000001"; wait for 1000 * TbPeriod;
-		SW <= "0010101010"; wait for 1000 * TbPeriod;
-		SW <= "1011111111"; wait for 1000 * TbPeriod;
-		SW <= "0000001111"; wait for 1000 * TbPeriod;
+		SW <= "1000001111"; 
+		wait for 1000 * TbPeriod;
+		SW <= "1000000001";
+		wait for 1000 * TbPeriod;
+		SW <= "0010101010"; 
+		wait for 1000 * TbPeriod;
+		SW <= "1011111111";
+		wait for 1000 * TbPeriod;
+		SW <= "0000001111"; 
+		wait for 1000 * TbPeriod;
 		wait for 100 * TbPeriod;
 
         -- Stop the clock and hence terminate the simulation
