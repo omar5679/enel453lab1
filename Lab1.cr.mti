@@ -1,4 +1,4 @@
-{C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd}
+{C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -6,7 +6,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Compiling entity SevenSegment_decoder
 -- Compiling architecture Behavioral of SevenSegment_decoder
 
-} {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd}
+} {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/SevenSegment_decoder.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -23,19 +23,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Compiling entity top_level
 -- Compiling architecture Behavioral of top_level
 
-} {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity tb_top_level
--- Compiling architecture tb of tb_top_level
--- Compiling configuration cfg_tb_top_level
--- Loading entity tb_top_level
--- Loading architecture tb of tb_top_level
--- Loading package NUMERIC_STD
--- Loading entity top_level
-
 } {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
@@ -49,7 +36,20 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Loading package NUMERIC_STD
 -- Loading entity top_level
 
-} {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd}
+} {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_top_level.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_top_level
+-- Compiling architecture tb of tb_top_level
+-- Compiling configuration cfg_tb_top_level
+-- Loading entity tb_top_level
+-- Loading architecture tb of tb_top_level
+-- Loading package NUMERIC_STD
+-- Loading entity top_level
+
+} {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -57,7 +57,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Compiling entity MUX2TO1
 -- Compiling architecture BEHAVIOR of MUX2TO1
 
-} {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd}
+} {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/MUX2TO1.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -81,6 +81,15 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 -- Compiling entity SevenSegment
 -- Compiling architecture Behavioral of SevenSegment
 
+} {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity binary_bcd
+-- Compiling architecture behavior of binary_bcd
+
 } {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_MUX2TO1.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_MUX2TO1.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
@@ -95,15 +104,6 @@ Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 
 ** Note: C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/tb_MUX2TO1.vhd(60): VHDL Compiler exiting
 
 } {} {}} {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Fall2020 U of C/ENEL 453/Lab_1/enel453lab1/binary_bcd.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity binary_bcd
--- Compiling architecture behavior of binary_bcd
-
-} {} {}} {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO

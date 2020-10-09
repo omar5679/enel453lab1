@@ -14,7 +14,7 @@ Z0 w1602035662
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 71
+!i122 92
 Z4 dC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1
 Z5 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
 Z6 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
@@ -24,9 +24,9 @@ VUzoeW9Lma@=@L6?j9>7JF0
 !s100 6goJXCCbUA3k@H<6a];`e0
 Z7 OV;C;2020.1;71
 32
-Z8 !s110 1602281903
+Z8 !s110 1602283995
 !i10b 1
-Z9 !s108 1602281903.000000
+Z9 !s108 1602283995.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
 Z11 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
 !i113 1
@@ -37,7 +37,7 @@ R1
 R2
 R3
 DEx4 work 10 binary_bcd 0 22 UzoeW9Lma@=@L6?j9>7JF0
-!i122 71
+!i122 92
 l26
 L16 68
 V_@`I7?gYRd;zSQc]gjB=j2
@@ -61,7 +61,7 @@ DAx4 work 12 tb_top_level 2 tb 22 3Zc2CCn6Yf7DWWd622GJW2
 R2
 R3
 Z15 DEx4 work 12 tb_top_level 0 22 zIJcR]GGPS23@TVK:g=SK1
-!i122 76
+!i122 97
 Z16 w1602281507
 R4
 Z17 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd
@@ -72,9 +72,9 @@ Vb`896o[XT5J4gCbCV6IH;0
 !s100 H:^Tg^6>gkC6:NFL89S?P1
 R7
 32
-Z19 !s110 1602281904
+Z19 !s110 1602283999
 !i10b 0
-Z20 !s108 1602281904.000000
+Z20 !s108 1602283999.000000
 Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd|
 Z22 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd|
 !i113 1
@@ -84,7 +84,7 @@ Emux2to1
 R16
 R2
 R3
-!i122 72
+!i122 93
 R4
 Z23 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
 Z24 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
@@ -94,11 +94,11 @@ VoQ7[^jKLJ52?kW53Nz3EN1
 !s100 ?B]`D<f;d>M0NU6;DQ`?G2
 R7
 32
-R8
+Z25 !s110 1602283996
 !i10b 1
 R9
-Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
-Z26 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+Z27 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
 !i113 1
 R12
 R13
@@ -106,40 +106,40 @@ Abehavior
 R2
 R3
 DEx4 work 7 mux2to1 0 22 oQ7[^jKLJ52?kW53Nz3EN1
-!i122 72
+!i122 93
 l13
 L12 7
 VXB3Tl3lkENP>mQ<@K1Z>I3
 !s100 jA2oo80z485Y[`m712EBm0
 R7
 32
-R8
+R25
 !i10b 1
 R9
-R25
 R26
+R27
 !i113 1
 R12
 R13
 Esevensegment
-Z27 w1601516219
+Z28 w1601516219
 R2
 R3
-!i122 73
+!i122 94
 R4
-Z28 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
-Z29 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+Z29 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+Z30 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
 l0
 L6 1
 Vzf7H0KEUACdcL6ofKZXa93
 !s100 >IEJC57ZP:Ri_T5nGM:6Q1
 R7
 32
-R19
+R25
 !i10b 1
-R9
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
-Z31 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+Z31 !s108 1602283996.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+Z33 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
 !i113 1
 R12
 R13
@@ -147,18 +147,18 @@ Abehavioral
 R2
 R3
 DEx4 work 12 sevensegment 0 22 zf7H0KEUACdcL6ofKZXa93
-!i122 73
+!i122 94
 l21
 L12 50
 V@76gJhPGP0NL]bf`JALnz0
 !s100 dkD[jZe@O2mY7kYA9Md`[2
 R7
 32
-R19
+R25
 !i10b 1
-R9
-R30
 R31
+R32
+R33
 !i113 1
 R12
 R13
@@ -166,21 +166,21 @@ Esevensegment_decoder
 R16
 R2
 R3
-!i122 74
+!i122 95
 R4
-Z32 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
-Z33 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+Z34 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+Z35 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
 l0
 L5 1
 VKjE^A[JI58zIZ_l229BiF2
 !s100 5AALkiToOD1k>]CGcBo?e0
 R7
 32
-R19
+R25
 !i10b 1
-R20
-Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
-Z35 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+R31
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+Z37 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
 !i113 1
 R12
 R13
@@ -188,40 +188,40 @@ Abehavioral
 R2
 R3
 DEx4 work 20 sevensegment_decoder 0 22 KjE^A[JI58zIZ_l229BiF2
-!i122 74
+!i122 95
 l17
 L13 41
 Vo=e:lAfD2_^C;7hz[HJKZ0
 !s100 :RKLICMaCA<^S>3gSNgnd0
 R7
 32
-R19
+R25
 !i10b 1
-R20
-R34
-R35
+R31
+R36
+R37
 !i113 1
 R12
 R13
 Etb_mux2to1
-Z36 w1602281889
+Z38 w1602281889
 R2
 R3
-!i122 75
+!i122 82
 R4
-Z37 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
-Z38 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
+Z39 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
+Z40 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
 l0
 L4 1
 VIb@2L6>4m?I`INR>md?>;2
 !s100 MXTn`=C41mc0Pab1_8j`P0
 R7
 32
-R19
+Z41 !s110 1602283852
 !i10b 1
-R20
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
-Z40 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
+Z42 !s108 1602283852.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
+Z44 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
 !i113 1
 R12
 R13
@@ -229,18 +229,18 @@ Abehavior
 R2
 R3
 DEx4 work 10 tb_mux2to1 0 22 Ib@2L6>4m?I`INR>md?>;2
-!i122 75
+!i122 82
 l25
 L7 54
 VMV44^bYb1ZO=dg_>iS0[L3
 !s100 V7_:nm^M_ezLBV[RMOAd91
 R7
 32
-R19
+R41
 !i10b 1
-R20
-R39
-R40
+R42
+R43
+R44
 !i113 1
 R12
 R13
@@ -248,7 +248,7 @@ Etb_top_level
 R16
 R2
 R3
-!i122 76
+!i122 97
 R4
 R17
 R18
@@ -270,7 +270,7 @@ Atb
 R2
 R3
 R15
-!i122 76
+!i122 97
 l41
 L11 73
 V3Zc2CCn6Yf7DWWd622GJW2
@@ -290,10 +290,10 @@ R16
 R1
 R2
 R3
-!i122 77
+!i122 98
 R4
-Z41 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
-Z42 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+Z45 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+Z46 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
 l0
 L8 1
 V62GI<MZNLl3aOeQPUKc^j1
@@ -303,8 +303,8 @@ R7
 R19
 !i10b 1
 R20
-Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
-Z44 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+Z48 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
 !i113 1
 R12
 R13
@@ -313,18 +313,18 @@ R1
 R2
 R3
 R14
-!i122 77
+!i122 98
 l52
-Z45 L18 84
-Z46 VJF7_J_SXhczS0AL_[Z;Z20
-Z47 !s100 9hKI>Y_km3f5mRaHULXQo1
+Z49 L18 84
+Z50 VJF7_J_SXhczS0AL_[Z;Z20
+Z51 !s100 9hKI>Y_km3f5mRaHULXQo1
 R7
 32
 R19
 !i10b 1
 R20
-R43
-R44
+R47
+R48
 !i113 1
 R12
 R13
