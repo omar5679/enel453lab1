@@ -2,40 +2,38 @@
 # Compile of MUX2TO1.vhd was successful.
 # Compile of SevenSegment.vhd was successful.
 # Compile of SevenSegment_decoder.vhd was successful.
-# Compile of tb_top_level.vhd was successful.
+# Compile of tb_MUX2TO1.vhd was successful.
 # Compile of tb_top_level_test.vhd was successful.
 # Compile of top_level.vhd was successful.
 # 7 compiles, 0 failed with no errors.
-vsim -gui work.tb_top_level
-# vsim -gui work.tb_top_level 
-# Start time: 19:37:44 on Oct 06,2020
+vsim -gui work.tb_mux2to1
+# vsim -gui work.tb_mux2to1 
+# Start time: 16:16:01 on Oct 09,2020
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading work.tb_top_level(tb)
-# Loading ieee.numeric_std(body)
-# Loading work.top_level(behavioral)
-# Loading work.sevensegment(behavioral)
-# Loading work.sevensegment_decoder(behavioral)
-# Loading work.binary_bcd(behavior)
+# Loading work.tb_mux2to1(behavior)
 # Loading work.mux2to1(behavior)
-add wave -position end sim:/tb_top_level/*
-vsim -gui work.tb_top_level
-# End time: 19:38:08 on Oct 06,2020, Elapsed time: 0:00:24
-# Errors: 0, Warnings: 6
-# vsim -gui work.tb_top_level 
-# Start time: 19:38:08 on Oct 06,2020
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading work.tb_top_level(tb)
-# Loading ieee.numeric_std(body)
-# Loading work.top_level(behavioral)
-# Loading work.sevensegment(behavioral)
-# Loading work.sevensegment_decoder(behavioral)
-# Loading work.binary_bcd(behavior)
-# Loading work.mux2to1(behavior)
-add wave -position end sim:/tb_top_level/*
+add wave -position end sim:/tb_mux2to1/*
 run -all
-# End time: 19:41:22 on Oct 06,2020, Elapsed time: 0:03:14
-# Errors: 0, Warnings: 1
+# ** Error: MUX2TO1 testbench started
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mux2to1
+# ** Error: MUX2TO1 testbench completed
+#    Time: 140200 ns  Iteration: 0  Instance: /tb_mux2to1
+# Compile of binary_bcd.vhd was successful.
+# Compile of MUX2TO1.vhd was successful.
+# Compile of SevenSegment.vhd was successful.
+# Compile of SevenSegment_decoder.vhd was successful.
+# Compile of tb_MUX2TO1.vhd was successful.
+# Compile of tb_top_level_test.vhd was successful.
+# Compile of top_level.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mux2to1(behavior)
+# Loading work.mux2to1(behavior)
+run -all
+# ** Error: MUX2TO1 testbench started
+#    Time: 0 ps  Iteration: 0  Instance: /tb_mux2to1
+# ** Error: MUX2TO1 testbench completed
+#    Time: 100200 ns  Iteration: 0  Instance: /tb_mux2to1

@@ -10,11 +10,11 @@ z2
 cModel Technology
 dC:/WINDOWS/system32
 Ebinary_bcd
-Z0 w1601765355
+Z0 w1602035662
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 57
+!i122 71
 Z4 dC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1
 Z5 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
 Z6 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd
@@ -24,9 +24,9 @@ VUzoeW9Lma@=@L6?j9>7JF0
 !s100 6goJXCCbUA3k@H<6a];`e0
 Z7 OV;C;2020.1;71
 32
-Z8 !s110 1602034654
+Z8 !s110 1602281903
 !i10b 1
-Z9 !s108 1602034654.000000
+Z9 !s108 1602281903.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
 Z11 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/binary_bcd.vhd|
 !i113 1
@@ -37,7 +37,7 @@ R1
 R2
 R3
 DEx4 work 10 binary_bcd 0 22 UzoeW9Lma@=@L6?j9>7JF0
-!i122 57
+!i122 71
 l26
 L16 68
 V_@`I7?gYRd;zSQc]gjB=j2
@@ -61,8 +61,8 @@ DAx4 work 12 tb_top_level 2 tb 22 3Zc2CCn6Yf7DWWd622GJW2
 R2
 R3
 Z15 DEx4 work 12 tb_top_level 0 22 zIJcR]GGPS23@TVK:g=SK1
-!i122 62
-Z16 w1602033461
+!i122 76
+Z16 w1602281507
 R4
 Z17 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd
 Z18 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd
@@ -72,33 +72,33 @@ Vb`896o[XT5J4gCbCV6IH;0
 !s100 H:^Tg^6>gkC6:NFL89S?P1
 R7
 32
-Z19 !s110 1602034655
+Z19 !s110 1602281904
 !i10b 0
-Z20 !s108 1602034655.000000
+Z20 !s108 1602281904.000000
 Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd|
 Z22 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_top_level_test.vhd|
 !i113 1
 R12
 R13
 Emux2to1
-Z23 w1602034022
+R16
 R2
 R3
-!i122 58
+!i122 72
 R4
-Z24 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
-Z25 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
+Z23 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
+Z24 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd
 l0
 L4 1
 VoQ7[^jKLJ52?kW53Nz3EN1
 !s100 ?B]`D<f;d>M0NU6;DQ`?G2
 R7
 32
-R19
+R8
 !i10b 1
-R20
-Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
-Z27 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
+Z26 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/MUX2TO1.vhd|
 !i113 1
 R12
 R13
@@ -106,29 +106,29 @@ Abehavior
 R2
 R3
 DEx4 work 7 mux2to1 0 22 oQ7[^jKLJ52?kW53Nz3EN1
-!i122 58
+!i122 72
 l13
 L12 7
 VXB3Tl3lkENP>mQ<@K1Z>I3
 !s100 jA2oo80z485Y[`m712EBm0
 R7
 32
-R19
+R8
 !i10b 1
-R20
+R9
+R25
 R26
-R27
 !i113 1
 R12
 R13
 Esevensegment
-Z28 w1601516219
+Z27 w1601516219
 R2
 R3
-!i122 59
+!i122 73
 R4
-Z29 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
-Z30 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+Z28 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
+Z29 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd
 l0
 L6 1
 Vzf7H0KEUACdcL6ofKZXa93
@@ -137,9 +137,9 @@ R7
 32
 R19
 !i10b 1
-R20
-Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
-Z32 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
+Z31 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment.vhd|
 !i113 1
 R12
 R13
@@ -147,7 +147,7 @@ Abehavioral
 R2
 R3
 DEx4 work 12 sevensegment 0 22 zf7H0KEUACdcL6ofKZXa93
-!i122 59
+!i122 73
 l21
 L12 50
 V@76gJhPGP0NL]bf`JALnz0
@@ -156,20 +156,20 @@ R7
 32
 R19
 !i10b 1
-R20
+R9
+R30
 R31
-R32
 !i113 1
 R12
 R13
 Esevensegment_decoder
-R23
+R16
 R2
 R3
-!i122 60
+!i122 74
 R4
-Z33 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
-Z34 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+Z32 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
+Z33 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd
 l0
 L5 1
 VKjE^A[JI58zIZ_l229BiF2
@@ -179,8 +179,8 @@ R7
 R19
 !i10b 1
 R20
-Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
-Z36 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
+Z35 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/SevenSegment_decoder.vhd|
 !i113 1
 R12
 R13
@@ -188,7 +188,7 @@ Abehavioral
 R2
 R3
 DEx4 work 20 sevensegment_decoder 0 22 KjE^A[JI58zIZ_l229BiF2
-!i122 60
+!i122 74
 l17
 L13 41
 Vo=e:lAfD2_^C;7hz[HJKZ0
@@ -198,8 +198,49 @@ R7
 R19
 !i10b 1
 R20
+R34
 R35
-R36
+!i113 1
+R12
+R13
+Etb_mux2to1
+Z36 w1602281889
+R2
+R3
+!i122 75
+R4
+Z37 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
+Z38 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd
+l0
+L4 1
+VIb@2L6>4m?I`INR>md?>;2
+!s100 MXTn`=C41mc0Pab1_8j`P0
+R7
+32
+R19
+!i10b 1
+R20
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
+Z40 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/tb_MUX2TO1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 10 tb_mux2to1 0 22 Ib@2L6>4m?I`INR>md?>;2
+!i122 75
+l25
+L7 54
+VMV44^bYb1ZO=dg_>iS0[L3
+!s100 V7_:nm^M_ezLBV[RMOAd91
+R7
+32
+R19
+!i10b 1
+R20
+R39
+R40
 !i113 1
 R12
 R13
@@ -207,7 +248,7 @@ Etb_top_level
 R16
 R2
 R3
-!i122 62
+!i122 76
 R4
 R17
 R18
@@ -229,7 +270,7 @@ Atb
 R2
 R3
 R15
-!i122 62
+!i122 76
 l41
 L11 73
 V3Zc2CCn6Yf7DWWd622GJW2
@@ -245,25 +286,25 @@ R22
 R12
 R13
 Etop_level
-R23
+R16
 R1
 R2
 R3
-!i122 63
+!i122 77
 R4
-Z37 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
-Z38 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+Z41 8C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
+Z42 FC:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd
 l0
 L8 1
 V62GI<MZNLl3aOeQPUKc^j1
 !s100 Oh]1JNgF^_XII?mmP^NR;0
 R7
 32
-Z39 !s110 1602034656
+R19
 !i10b 1
-Z40 !s108 1602034656.000000
-Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
-!s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+R20
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+Z44 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
 !i113 1
 R12
 R13
@@ -272,18 +313,18 @@ R1
 R2
 R3
 R14
-!i122 63
+!i122 77
 l52
-Z42 L18 84
-Z43 VJF7_J_SXhczS0AL_[Z;Z20
-Z44 !s100 9hKI>Y_km3f5mRaHULXQo1
+Z45 L18 84
+Z46 VJF7_J_SXhczS0AL_[Z;Z20
+Z47 !s100 9hKI>Y_km3f5mRaHULXQo1
 R7
 32
-R39
+R19
 !i10b 1
-R40
-R41
-Z45 !s107 C:/Users/assaa/OneDrive/Desktop/ENEL 453/Projects/Lab1/enel453lab1/top_level.vhd|
+R20
+R43
+R44
 !i113 1
 R12
 R13
